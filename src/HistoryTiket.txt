@@ -1,0 +1,103 @@
+
+========================================
+          DETAIL TRANSAKSI
+========================================
+No. Transaksi : TRX001
+Waktu Cetak   : 01-10-2026 11:49
+----------------------------------------
+Jumlah Tiket  : 2
+Total Harga   : Rp 200,000
+Pembayaran    : CC
+----------------------------------------
+              DATA TIKET
+----------------------------------------
+
+             Puri
+AGAK LAEN: MENYALA PANTIKU!
+Jenis Studio: Premier
+Date: Wed, 09-Sep
+Time: 13:30
+Nomor Studio: 3
+Row: H Seat: 7
+Price: Rp 100,000
+No. Transaksi : TRX001
+----------------------------------------
+
+             Puri
+AGAK LAEN: MENYALA PANTIKU!
+Jenis Studio: Premier
+Date: Wed, 09-Sep
+Time: 13:30
+Nomor Studio: 3
+Row: H Seat: 8
+Price: Rp 100,000
+No. Transaksi : TRX001
+----------------------------------------
+
+========================================
+          DETAIL TRANSAKSI
+========================================
+No. Transaksi : TRX001
+Waktu Cetak   : 01-10-2026 12:17
+----------------------------------------
+Jumlah Tiket  : 5
+Total Harga   : Rp 500,000
+Pembayaran    : CC
+----------------------------------------
+              DATA TIKET
+----------------------------------------
+
+             CP
+INTERSTELLAR
+Jenis Studio: IMAX
+Date: Wed, 09-Sep
+Time: 13:30
+Nomor Studio: 3
+Row: G Seat: 6
+Price: Rp 100,000
+No. Transaksi : TRX001
+----------------------------------------
+
+             CP
+INTERSTELLAR
+Jenis Studio: IMAX
+Date: Wed, 09-Sep
+Time: 13:30
+Nomor Studio: 3
+Row: G Seat: 7
+Price: Rp 100,000
+No. Transaksi : TRX001
+----------------------------------------
+
+             CP
+INTERSTELLAR
+Jenis Studio: IMAX
+Date: Wed, 09-Sep
+Time: 13:30
+Nomor Studio: 3
+Row: G Seat: 8
+Price: Rp 100,000
+No. Transaksi : TRX001
+----------------------------------------
+
+             CP
+INTERSTELLAR
+Jenis Studio: IMAX
+Date: Wed, 09-Sep
+Time: 13:30
+Nomor Studio: 3
+Row: G Seat: 9
+Price: Rp 100,000
+No. Transaksi : TRX001
+----------------------------------------
+
+             CP
+INTERSTELLAR
+Jenis Studio: IMAX
+Date: Wed, 09-Sep
+Time: 13:30
+Nomor Studio: 3
+Row: G Seat: 10
+Price: Rp 100,000
+No. Transaksi : TRX001
+----------------------------------------
